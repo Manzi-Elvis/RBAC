@@ -1,5 +1,6 @@
 {
   "name": "rbac",
+  "type": "module",
   "version": "1.0.0",
   "description": "role based access control",
   "main": "index.js",
